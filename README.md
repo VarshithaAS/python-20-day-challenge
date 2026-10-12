@@ -50,6 +50,7 @@ Python-20-Day-Challenge/
 ├── Day-03/
 ├── Day-04/
 ├── Day-05/
+├── Day-06/
 └── ...
 ```
 
@@ -59,7 +60,7 @@ Python-20-Day-Challenge/
 - [x] Day 03 — Revision and Practice
 - [x] Day 04 — Lists
 - [x] Day 05 — Tuples
-- [ ] Day 06 — Sets
+- [x] Day 06 — Sets
 - [ ] Day 07 — Dictionaries
 - [ ] Day 08 — Loops
 - [ ] Day 09 — Break, Continue and Nested Loops
