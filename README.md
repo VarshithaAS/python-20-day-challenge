@@ -46,11 +46,19 @@ Welcome to my Python 20-Day Challenge! This repository documents my daily Python
 Python-20-Day-Challenge/
 ├── README.md
 ├── Day-01/
+│   └── day01_practice.py
 ├── Day-02/
+│   └── day02_practice.py
 ├── Day-03/
+│   └── day03_practice.py
 ├── Day-04/
+│   └── day04_practice.py
 ├── Day-05/
+│   └── day05_practice.py
 ├── Day-06/
+│   └── day06_practice.py
+├── Day-07/
+│   └── day07_practice.py
 └── ...
 ```
 
@@ -61,7 +69,7 @@ Python-20-Day-Challenge/
 - [x] Day 04 — Lists
 - [x] Day 05 — Tuples
 - [x] Day 06 — Sets
-- [ ] Day 07 — Dictionaries
+- [x] Day 07 — Dictionaries
 - [ ] Day 08 — Loops
 - [ ] Day 09 — Break, Continue and Nested Loops
 - [ ] Day 10 — Conditions and Loops Practice
