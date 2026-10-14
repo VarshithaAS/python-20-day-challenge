@@ -3,6 +3,7 @@
 Welcome to my Python 20-Day Challenge! This repository documents my daily Python practice as I strengthen my programming fundamentals and prepare for technical placements.
 
 ## 🎯 Goals
+
 - Learn Python step by step.
 - Practise coding problems daily.
 - Improve logical thinking and problem-solving.
@@ -35,6 +36,7 @@ Welcome to my Python 20-Day Challenge! This repository documents my daily Python
 | Day 20 | Revision and Mini Project |
 
 ## 🛠️ Tools Used
+
 - Python
 - Visual Studio Code
 - Git
@@ -59,10 +61,13 @@ Python-20-Day-Challenge/
 │   └── day06_practice.py
 ├── Day-07/
 │   └── day07_practice.py
+├── Day-08/
+│   └── day08_practice.py
 └── ...
 ```
 
 ## 📈 Progress Tracker
+
 - [x] Day 01 — Python Basics
 - [x] Day 02 — Strings
 - [x] Day 03 — Revision and Practice
@@ -70,7 +75,7 @@ Python-20-Day-Challenge/
 - [x] Day 05 — Tuples
 - [x] Day 06 — Sets
 - [x] Day 07 — Dictionaries
-- [ ] Day 08 — Loops
+- [x] Day 08 — Loops
 - [ ] Day 09 — Break, Continue and Nested Loops
 - [ ] Day 10 — Conditions and Loops Practice
 - [ ] Day 11 — Functions
@@ -86,4 +91,6 @@ Python-20-Day-Challenge/
 
 ## 🌱 Learning Journey
 
-I believe consistent practice is the key to improving programming skills. Through this challenge, I aim to strengthen my Python knowledge, solve problems independently, and prepare for software engineering opportunities.
+I believe consistent practice is the key to improving programming skills. Through this challenge, I aim to strengthen my Python knowledge, solve problems independently, improve my problem-solving skills, and prepare for software engineering opportunities.
+
+I am documenting my daily progress on GitHub to build consistency, track my learning journey, and showcase my coding practice.
