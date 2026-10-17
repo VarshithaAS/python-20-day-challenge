@@ -67,6 +67,8 @@ Python-20-Day-Challenge/
 │   └── day09_practice.py
 ├── Day-10/
 │   └── day10_practice.py
+├── Day-11/
+│   └── day11_practice.py
 └── ...
 ```
 
@@ -81,8 +83,8 @@ Python-20-Day-Challenge/
 - [x] Day 07 — Dictionaries
 - [x] Day 08 — Loops
 - [x] Day 09 — Break, Continue and Nested Loops
-- [ ] Day 10 — Conditions and Loops Practice
-- [ ] Day 11 — Functions
+- [x] Day 10 — Conditions and Loops Practice
+- [x] Day 11 — Functions
 - [ ] Day 12 — Return Values and Scope
 - [ ] Day 13 — Comprehensions
 - [ ] Day 14 — File Handling
