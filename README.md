@@ -1,3 +1,4 @@
+
 # 🐍 Python 20-Day Challenge
 
 Welcome to my Python 20-Day Challenge! This repository documents my daily Python practice as I strengthen my programming fundamentals and prepare for technical placements.
@@ -85,7 +86,7 @@ Python-20-Day-Challenge/
 - [x] Day 09 — Break, Continue and Nested Loops
 - [x] Day 10 — Conditions and Loops Practice
 - [x] Day 11 — Functions
-- [ ] Day 12 — Return Values and Scope
+- [x] Day 12 — Return Values and Scope
 - [ ] Day 13 — Comprehensions
 - [ ] Day 14 — File Handling
 - [ ] Day 15 — Exception Handling
