@@ -1,4 +1,3 @@
-
 # 🐍 Python 20-Day Challenge
 
 Welcome to my Python 20-Day Challenge! This repository documents my daily Python practice as I strengthen my programming fundamentals and prepare for technical placements.
@@ -70,6 +69,10 @@ Python-20-Day-Challenge/
 │   └── day10_practice.py
 ├── Day-11/
 │   └── day11_practice.py
+├── Day-12/
+│   └── day12_practice.py
+├── Day-13/
+│   └── day13_practice.py
 └── ...
 ```
 
@@ -87,7 +90,7 @@ Python-20-Day-Challenge/
 - [x] Day 10 — Conditions and Loops Practice
 - [x] Day 11 — Functions
 - [x] Day 12 — Return Values and Scope
-- [ ] Day 13 — Comprehensions
+- [x] Day 13 — Comprehensions
 - [ ] Day 14 — File Handling
 - [ ] Day 15 — Exception Handling
 - [ ] Day 16 — OOP Basics
