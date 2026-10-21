@@ -94,7 +94,7 @@ Python-20-Day-Challenge/
 - [x] Day 12 — Return Values and Scope
 - [x] Day 13 — Comprehensions
 - [x] Day 14 — File Handling
-- [ ] Day 15 — Exception Handling
+- [x] Day 15 — Exception Handling
 - [ ] Day 16 — OOP Basics
 - [ ] Day 17 — OOP Concepts
 - [ ] Day 18 — Modules and Libraries
