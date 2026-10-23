@@ -96,7 +96,7 @@ Python-20-Day-Challenge/
 - [x] Day 14 — File Handling
 - [x] Day 15 — Exception Handling
 - [x] Day 16 — OOP Basics
-- [ ] Day 17 — OOP Concepts
+- [x] Day 17 — OOP Concepts
 - [ ] Day 18 — Modules and Libraries
 - [ ] Day 19 — Mixed Practice
 - [ ] Day 20 — Revision and Mini Project
