@@ -98,7 +98,7 @@ Python-20-Day-Challenge/
 - [x] Day 16 — OOP Basics
 - [x] Day 17 — OOP Concepts
 - [x] Day 18 — Modules and Libraries
-- [ ] Day 19 — Mixed Practice
+- [x] Day 19 — Mixed Practice
 - [ ] Day 20 — Revision and Mini Project
 
 ## 🌱 Learning Journey
