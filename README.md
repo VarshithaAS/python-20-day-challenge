@@ -1,14 +1,16 @@
 # 🐍 Python 20-Day Challenge
 
-Welcome to my Python 20-Day Challenge! This repository documents my daily Python practice as I strengthen my programming fundamentals and prepare for technical placements.
+Welcome to my Python 20-Day Challenge! This repository documents my daily Python practice as I strengthen my programming fundamentals, improve problem-solving skills, and prepare for technical placements.
 
 ## 🎯 Goals
 
 - Learn Python step by step.
 - Practise coding problems daily.
+- Strengthen Python programming fundamentals.
 - Improve logical thinking and problem-solving.
 - Build consistency through hands-on practice.
 - Prepare for technical interviews.
+- Build practical Python projects.
 
 ## 📚 Day-wise Learning Plan
 
@@ -32,8 +34,8 @@ Welcome to my Python 20-Day Challenge! This repository documents my daily Python
 | Day 16 | Object-Oriented Programming Basics |
 | Day 17 | OOP Concepts |
 | Day 18 | Modules and Libraries |
-| Day 19 | Mixed Practice Problems |
-| Day 20 | Revision and Mini Project |
+| Day 19 | Mixed Practice Problems, Iterators and Generators |
+| Day 20 | Python Revision and Student Marks Management Mini Project |
 
 ## 🛠️ Tools Used
 
@@ -75,7 +77,18 @@ Python-20-Day-Challenge/
 │   └── day13_practice.py
 ├── Day-14/
 │   └── day14_practice.py
-└── ...
+├── Day-15/
+│   └── day15_practice.py
+├── Day-16/
+│   └── day16_practice.py
+├── Day-17/
+│   └── day17_practice.py
+├── Day-18/
+│   └── day18_practice.py
+├── Day-19/
+│   └── day19_practice.py
+└── Day-20/
+    └── day20_practice.py
 ```
 
 ## 📈 Progress Tracker
@@ -95,14 +108,43 @@ Python-20-Day-Challenge/
 - [x] Day 13 — Comprehensions
 - [x] Day 14 — File Handling
 - [x] Day 15 — Exception Handling
-- [x] Day 16 — OOP Basics
+- [x] Day 16 — Object-Oriented Programming Basics
 - [x] Day 17 — OOP Concepts
 - [x] Day 18 — Modules and Libraries
-- [x] Day 19 — Mixed Practice
-- [ ] Day 20 — Revision and Mini Project
+- [x] Day 19 — Mixed Practice Problems, Iterators and Generators
+- [x] Day 20 — Python Revision and Student Marks Management Mini Project
+
+## 💻 Mini Project: Student Marks Management System
+
+As part of Day 20, I developed a beginner-friendly Python project to practise the concepts learned throughout the challenge.
+
+### Features
+
+- Add student names and marks.
+- Validate marks and handle invalid input.
+- Calculate grades based on marks.
+- Display all student records.
+- Search for a student.
+- Calculate the class average.
+- Use a menu-driven interface.
+
+### Concepts Applied
+
+- Variables and data types
+- Dictionaries
+- Loops and conditional statements
+- Functions and return values
+- Exception handling
+- User input and validation
+
+**Note:** Student records are stored in memory and are not permanently saved after the program exits.
 
 ## 🌱 Learning Journey
 
-I believe consistent practice is the key to improving programming skills. Through this challenge, I aim to strengthen my Python knowledge, solve problems independently, improve my problem-solving skills, and prepare for software engineering opportunities.
+I believe consistent practice is the key to improving programming skills. Throughout this 20-day challenge, I practised Python concepts, solved coding problems, and applied my learning in a mini project.
 
-I am documenting my daily progress on GitHub to build consistency, track my learning journey, and showcase my coding practice.
+This challenge helped me strengthen my programming fundamentals, develop logical thinking, and build consistency in coding. I documented my progress on GitHub to track my learning journey and prepare for software engineering opportunities.
+
+---
+
+**Thank you for visiting my repository!** 😊
